@@ -1,2 +1,2 @@
-# BMW-Sales-Service-Dashboard-Power-BI
+# BMW-Sales-Service-Dashboard-Power-BI:                                                                                                                                I developed an Employee Payroll Dashboard using Power BI to analyze salary, deductions, and department-wise compensation. The data was collected from Excel/SQL database. I cleaned and transformed the data using Power Query and created key metrics using DAX. The dashboard included KPIs and interactive visuals, which reduced manual work by 30% and helped HR teams make faster decisions.
 
